@@ -46,6 +46,10 @@ AWM v2는 다음과 같은 주요 변경 사항을 포함하며, AWM v1의 업�
 |:---:|:---:|:---:|:---:|
 |Capstone Design Project|#2|Any Where Map|공개|
 
+### 2.1 아키텍처
+![msa_architecture](./doc/file/image/readme_2_1.png)
+![msa_service](./doc/file/image/readme_2_1_1.png)
+
 ## 3. 프로젝트 브리프
 
 ### 3.1 목적
