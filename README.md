@@ -27,19 +27,19 @@ AWM v2 is an upgraded version of AWM v1 with the following major changes:
 ## 1. Repository Classification
 |Repository|Description|URL|
 |:---|:---|:---|
-|awm-v2-proxy|Protects the gateway from external access.| |
-|awm-v2-gateway|Serves as the initial point of contact for clients.| |
-|awm-v2-authentication-server|Handles client authentication and issues or validates JWT tokens.| |
-|awm-v2-location-manager|Provides functions for querying, registering, and modifying information about places.| |
-|awm-v2-image-processing-server|We offer image processing services, including image-based location search.| |
-|awm-v2-community-server|Offers a community where users can write, view, and modify posts.| |
-|awm-v2-chat-server|Provides real-time messaging functionality between users.| |
-|awm-v2-store-server|Handles the registration of items sold in the store and the processing of purchases.| |
-|awm-v2-token-manager|Connects to the blockchain and provides APIs related to payment processing.| |
-|awm-v2-blockchain|Allows you to monitor the status of the entire system.| |
-|awm-v2-database|We use a MySQL database. The table structure is documented.| |
-|awm-v2-monitor|Manages token history and smart contracts.| |
-|awm-v1-backend|This is version 1 of the AWM. It is implemented using a monolithic architecture.|https://github.com/ahr-i/awm-v1-backend|
+|awm-v2-proxy|Protects the gateway from external access.|[link](https://github.com/ahr-i/awm-v2-proxy)|
+|awm-v2-gateway|Serves as the initial point of contact for clients.|[link](https://github.com/ahr-i/awm-v2-gateway)|
+|awm-v2-authentication-server|Handles client authentication and issues or validates JWT tokens.|[link](https://github.com/ahr-i/awm-v2-authentication-server)|
+|awm-v2-location-manager|Provides functions for querying, registering, and modifying information about places.|[link](https://github.com/ahr-i/awm-v2-location-manager)|
+|awm-v2-image-processing-server|We offer image processing services, including image-based location search.|[link](https://github.com/ahr-i/awm-v2-image-processing-server)|
+|awm-v2-community-server|Offers a community where users can write, view, and modify posts.|[link](https://github.com/ahr-i/awm-v2-community-server)|
+|awm-v2-chat-server|Provides real-time messaging functionality between users.|[link](https://github.com/ahr-i/awm-v2-chat-server)|
+|awm-v2-store-server|Handles the registration of items sold in the store and the processing of purchases.|[link](https://github.com/ahr-i/awm-v2-store-server)|
+|awm-v2-token-manager|Connects to the blockchain and provides APIs related to payment processing.|[link](https://github.com/ahr-i/awm-v2-token-manager)|
+|awm-v2-blockchain|Allows you to monitor the status of the entire system.|[link](https://github.com/ahr-i/awm-v2-blockchain)|
+|awm-v2-database|We use a MySQL database. The table structure is documented.|[link](https://github.com/ahr-i/awm-v2-database)|
+|awm-v2-monitor|Manages token history and smart contracts.|[link](https://github.com/ahr-i/awm-v2-monitor)|
+|awm-v1-backend|This is version 1 of the AWM. It is implemented using a monolithic architecture.|[link](https://github.com/ahr-i/awm-v1-backend)|
 
 ## 2. Project Infomation
 |Category|Project ID|Project Name|Disclosure Scope|
