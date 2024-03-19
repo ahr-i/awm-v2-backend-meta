@@ -21,6 +21,8 @@ AWM v2 is an upgraded version of AWM v1 with the following major changes:
   * Ensures the accuracy and reliability of location data.
 * Added a navigation system for location information:
   * Facilitates user navigation to specific locations.
+* Image processing:
+  * Empowering your business with intelligent image processing and analysis.
 
 ## 1. Repository Classification
 |Repository|Description|URL|
@@ -29,6 +31,7 @@ AWM v2 is an upgraded version of AWM v1 with the following major changes:
 |awm-v2-gateway|Serves as the initial point of contact for clients.| |
 |awm-v2-authentication-server|Handles client authentication and issues or validates JWT tokens.| |
 |awm-v2-location-manager|Provides functions for querying, registering, and modifying information about places.| |
+|awm-v2-image-processing-server|We offer image processing services, including image-based location search.| |
 |awm-v2-community-server|Offers a community where users can write, view, and modify posts.| |
 |awm-v2-chat-server|Provides real-time messaging functionality between users.| |
 |awm-v2-store-server|Handles the registration of items sold in the store and the processing of purchases.| |
