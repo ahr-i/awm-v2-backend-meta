@@ -37,6 +37,7 @@ AWM v2 is an upgraded version of AWM v1 with the following major changes:
 |awm-v2-store-server|Handles the registration of items sold in the store and the processing of purchases.| |
 |awm-v2-token-manager|Connects to the blockchain and provides APIs related to payment processing.| |
 |awm-v2-blockchain|Allows you to monitor the status of the entire system.| |
+|awm-v2-database|We use a MySQL database. The table structure is documented.| |
 |awm-v2-monitor|Manages token history and smart contracts.| |
 |awm-v1-backend|This is version 1 of the AWM. It is implemented using a monolithic architecture.|https://github.com/ahr-i/awm-v1-backend|
 
