@@ -46,6 +46,10 @@ AWM v2 is an upgraded version of AWM v1 with the following major changes:
 |:---:|:---:|:---:|:---:|
 |Capstone Design Project|#2|Any Where Map|Public|
 
+### 2.1 Architecture
+![msa_architecture](./doc/file/image/readme_2_1.png)
+![msa_service](./doc/file/image/readme_2_1_1.png)
+
 ## 3. Project Brief
 
 ### 3.1 Purpose
